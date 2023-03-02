@@ -1,0 +1,119 @@
+
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+nav {
+    height: 50px;
+    width: 100%;
+
+}
+ul {
+    display: block;
+    background-color: #a306b6;
+    width: auto;
+    height: 50px;
+    padding-left: 0px;
+    
+
+  }
+
+li{
+    border-radius: 3px solid green;
+    display:inline-block;
+    vertical-align: center;
+    width: 60px;
+    height: 35px;
+    padding-left:0px;
+    padding-top:15px;
+    padding-right: 15px;
+    background-color: #a306b6;
+    font-weight: bold;
+
+}
+  
+
+
+a {
+    color:white;
+    text-decoration: none;
+    width: auto;
+    height: 50px;
+    padding: 20px;
+
+}
+
+a:hover {
+    background-color: white;
+    color: #a306b6;
+    height: 50px;
+}
+
+h1 {
+   
+    width: auto;
+    height: 50px;
+    padding:20px;
+    margin: 25px 50px 50px 50px;
+    border-radius: 10px;
+    text-align: center;
+    vertical-align: center;
+    background-color: #DBD4D4;
+  }
+  
+  h2 {
+    margin-top: 20px;
+    margin-left: 12%;
+    margin-bottom: 30px;
+
+  }
+div{
+    margin-top: 20px;
+    margin-left: 12%;
+    margin-bottom: 30px;
+}
+
+#name {
+    margin-top: 10px;
+    padding: 10px 15px 10px 300px;
+    border: none;
+    border-radius: 10px ;
+    background-color: #DBD4D4;
+  }
+
+  #email {
+    margin-top: 10px;
+    padding: 10px 15px 10px 300px;
+    border: none;
+    border-radius: 10px ;
+    background-color: #DBD4D4;
+  }
+
+  #message{
+    margin-top: 10px;
+    padding: 10px 200px 10px 300px;
+    border: none;
+    border-radius: 10px ;
+    background-color: #DBD4D4;
+  }
+
+  button{
+    margin-top: 20px;
+    margin-left: 12%;
+    margin-bottom: 30px;
+    padding: 10px 20px 10px 20px;
+    background-color: #a306b6;
+    color: white;
+    border:none;
+    border-radius: 10px;
+    text-align: center;
+  }
+
+  footer{
+    height: 30px;
+    width: 100%;
+    padding-top:10px;
+    padding-left: 20px;
+    background-color: dimgray;
+    color:white;
+  }
